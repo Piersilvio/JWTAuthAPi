@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8MFZiynBeGGZNi6bD5GQu9IDe5XBOTPjUMXPzZTmHMjifVPC/YpfImJBTkVhNdkbNOsJW4vV7csKoYunNZVtQ==",
+  "dgSpecHash": "Hp6XzKKTCJBul6rugJOBufrM4F9aK4DRMGHi9DmY2n9+VOJC5QVhnCRit8x1GezOr/BMzLynk+xvZQxuCbLlRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pspicoli\\Desktop\\JWTAuthAPi\\JWTAuthAPi.csproj",
+  "projectFilePath": "C:\\Users\\pspicoli\\Desktop\\JWTAuthentication Project\\JWTAuthAPi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pspicoli\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\pspicoli\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
